@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BrailleReaderApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="flashtoggle">Toggle Camera Flash</string>
+    <string name="threshold_up">Threshold Up 10</string>
+    <string name="threshold_down">Threshold Down 10</string>
+ 	   <string name="threshold_up2">Threshold Up 50</string>
+    <string name="threshold_down2">Threshold Down 50</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="takepicture">Take Picture</string>
+
+</resources>
